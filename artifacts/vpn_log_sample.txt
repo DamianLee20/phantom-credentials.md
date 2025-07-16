@@ -1,0 +1,8 @@
+Jul 16 08:02:43 vpn-gateway01 vpn[2498]: AUTH_SUCCESS, user=jsmith, ip=192.168.1.45
+Jul 16 08:04:27 vpn-gateway01 vpn[2510]: AUTH_SUCCESS, user=jsmith, ip=212.83.101.21
+Jul 16 08:04:45 vpn-gateway01 vpn[2515]: MULTIPLE_LOGIN_ATTEMPT, user=jsmith
+
+echo 'Jul 16 08:02:43 vpn-gateway01 vpn[2498]: AUTH_SUCCESS, user=jsmith, ip=192.168.1.45
+Jul 16 08:04:27 vpn-gateway01 vpn[2510]: AUTH_SUCCESS, user=jsmith, ip=212.83.101.21
+Jul 16 08:04:45 vpn-gateway01 vpn[2515]: MULTIPLE_LOGIN_ATTEMPT, user=jsmith' > artifacts/vpn_log_sample.txt
+

@@ -1,0 +1,12 @@
+Event ID: 4672  
+Privilege Assigned: SeDebugPrivilege, SeTcbPrivilege  
+User: jsmith  
+Source IP: 212.83.101.21  
+Description: Special privileges assigned to new logon
+
+echo 'Event ID: 4672  
+Privilege Assigned: SeDebugPrivilege, SeTcbPrivilege  
+User: jsmith  
+Source IP: 212.83.101.21  
+Description: Special privileges assigned to new logon' > artifacts/ad_alert_event.txt
+

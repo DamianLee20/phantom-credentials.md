@@ -1,0 +1,26 @@
+From: IT Support <it-support@corp-services.com>
+To: Finance Department
+Subject: Urgent: Secure Your Microsoft 365 Account
+
+We’ve detected unusual activity in your Microsoft 365 account.  
+Please verify your login to avoid service disruption:
+
+https://secure-microsoft365-login.com/auth
+
+If you do not verify within 24 hours, access to your account may be limited.  
+Thank you,  
+IT Security Team
+
+echo 'From: IT Support <it-support@corp-services.com>
+To: Finance Department
+Subject: Urgent: Secure Your Microsoft 365 Account
+
+We’ve detected unusual activity in your Microsoft 365 account.  
+Please verify your login to avoid service disruption:
+
+https://secure-microsoft365-login.com/auth
+
+If you do not verify within 24 hours, access to your account may be limited.  
+Thank you,  
+IT Security Team' > artifacts/phishing_email.txt
+
